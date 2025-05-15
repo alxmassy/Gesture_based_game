@@ -1,4 +1,4 @@
-# Gesture-Controlled Web Racing 🏎️✋
+# Gesture-Controlled Racing 🏎️✋
 
 This Python project allows you to control simple web-based racing games using hand gestures detected via your webcam. It translates gestures like a fist, open palm, and pointing into keyboard commands (W, A, S, D).
 
@@ -13,7 +13,7 @@ This Python project allows you to control simple web-based racing games using ha
 *   Visual feedback of detected hand landmarks and current action in an OpenCV window.
 
 ## Technologies Used
-*   Python 3.x
+*   Python 
 *   OpenCV (`opencv-python`) - For webcam access and image processing.
 *   MediaPipe (`mediapipe`) - For robust hand tracking and landmark detection.
 *   PyAutoGUI (`pyautogui`) - For simulating keyboard inputs.
@@ -47,9 +47,9 @@ This Python project allows you to control simple web-based racing games using ha
 2.  Navigate to the project directory in your terminal (if not already there).
 3.  Run the main Python script:
     ```bash
-    python your_script_name.py
+    python app.py
     ```
-    (Replace `your_script_name.py` with the actual name of your Python file).
+    (Replace `app.py` with the actual name of your Python file).
 4.  Once the script is running and the OpenCV window appears, **quickly make your web browser window (with the game) the active window.** The script sends keyboard inputs to the currently focused application.
 5.  Perform the defined hand gestures to control the game.
 6.  Press `ESC` in the OpenCV window to quit the application.
