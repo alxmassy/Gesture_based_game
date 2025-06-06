@@ -19,6 +19,9 @@ This Python project allows you to control simple web-based racing games using ha
 *   PyAutoGUI (`pyautogui`) - For simulating keyboard inputs.
 *   NumPy (if used directly)
 
+## Click for Video Demo 
+[![Watch the Demo](https://img.youtube.com/vi/hE5uxVegz0o/hqdefault.jpg)](https://youtu.be/hE5uxVegz0o)
+
 ## Setup and Installation
 
 1.  **Clone the repository (or download the files):**
