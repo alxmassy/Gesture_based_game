@@ -26,7 +26,7 @@ This Python project allows you to control simple web-based racing games using ha
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+    git clone https://github.com/alxmassy/Gesture_based_game.git
     cd YOUR_REPOSITORY_NAME
     ```
 
